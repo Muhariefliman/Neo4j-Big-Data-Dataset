@@ -1,0 +1,9 @@
+﻿landmark_id;visitor_name;country;date;time_spent;rating
+1;Alice Johnson;Germany;01/07/2023;3;5
+2;Bob Smith;USA;02/07/2023;2;4
+3;Charlie Brown;UK;03/07/2023;5;5
+4;Alice Johnson;Germany;04/07/2023;4;4
+5;Bob Smith;USA;05/07/2023;3;5
+1;Charlie Brown;UK;06/07/2023;2;4
+2;Alice Johnson;Germany;07/07/2023;5;5
+1023;Alice Johnson;Germany;08/07/2023;4;4
